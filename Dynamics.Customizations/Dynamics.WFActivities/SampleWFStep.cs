@@ -8,5 +8,6 @@ namespace Dynamics.WFActivities
 {
     public class SampleWFStep
     {
+        //code goes here
     }
 }
